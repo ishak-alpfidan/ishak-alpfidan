@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **ERP Software**
-- 
+  
 - 🌱 I’m currently learning **React and Fluter**
 
 - 👨‍💻 All of my projects are available at [https://tr.linkedin.com/in/ishak-alpfidan](https://tr.linkedin.com/in/ishak-alpfidan)
