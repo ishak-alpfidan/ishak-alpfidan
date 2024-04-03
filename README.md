@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://tr.linkedin.com/in/ishak-alpfidan](https://tr.linkedin.com/in/ishak-alpfidan)
 
-### Blogs posts
+### My blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishak-alpfidan&show_icons=true&locale=en" alt="ishak-alpfidan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishak-alpfidan&" alt="ishak-alpfidan" /></p>
-
