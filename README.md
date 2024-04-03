@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [https://tr.linkedin.com/in/ishak-alpfidan](https://tr.linkedin.com/in/ishak-alpfidan)
 
-### My blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ishak-alpfidan" target="blank"><img align="center" src="/devto.svg" alt="ishak-alpfidan" height="30" width="40" /></a>
