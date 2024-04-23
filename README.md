@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishak-alpfidan&show_icons=true&locale=en&layout=compact" alt="ishak-alpfidan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishak-alpfidan&show_icons=true&locale=en" alt="ishak-alpfidan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishak-alpfidan&" alt="ishak-alpfidan" /></p>
