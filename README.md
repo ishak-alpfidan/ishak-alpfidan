@@ -56,9 +56,7 @@ I'm a full stack developer with a strong focus on the **Laravel** ecosystem. I b
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ishak-alpfidan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishak-alpfidan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishak-alpfidan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishak-alpfidan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 
 ---
 
